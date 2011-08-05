@@ -7,7 +7,7 @@
   </parent>
 
   <artifactId>labmanager</artifactId>
-  <version>0.2.8-SNAPSHOT</version>
+  <version>0.2.8</version>
   <packaging>hpi</packaging>
   <name>Jenkins VMware Lab Manager Slaves plugin</name>
   <description>Integrates Jenkins with VMware Lab Manager</description>
